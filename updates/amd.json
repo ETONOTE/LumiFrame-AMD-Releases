@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "channel": "amd",
+  "published": true,
+  "version": "1.1.0-dev.218",
+  "sequence": 218,
+  "url": "https://github.com/ETONOTE/LumiFrame-Windows/releases/download/v1.1.0-dev.230/LumiFrame-Windows-1.1.0-dev.230-amd-win-x64.zip",
+  "sha256": "a137c905a648cd0772b757ee6d85d63f24bb91cc9e3d08f0e75996242f1096ed",
+  "bytes": 49749818,
+  "zip_prefix": "LumiFrame-Windows/runtimes/amd/1.1.0-dev.218/",
+  "notes": "현재 공개된 AMD218 채널입니다. 새로운 AMD 최적화 배포가 아닙니다. 앞으로 이 AMD 전용 채널의 업데이트는 AMD 담당자가 개발·검증하여 게시합니다."
+}

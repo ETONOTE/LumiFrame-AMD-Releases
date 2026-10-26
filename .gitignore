@@ -1,0 +1,10 @@
+*.zip
+*.exe
+*.dll
+*.pdb
+*.onnx
+*.pt
+*.pth
+*.mp4
+*.mkv
+.env*
